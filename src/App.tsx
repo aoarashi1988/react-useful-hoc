@@ -1,5 +1,5 @@
 import './App.css';
-import UserForm from './components/user-form';
+import UserForm from './demo/components/user-form';
 
 function App() {
   return (
